@@ -1,0 +1,51 @@
+Circuit: * C:\Users\Bogdan\OneDrive\Desktop\DEEA-tema\DEEA-7.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Increasing initial diagonal Gmin to 100
+Increasing initial diagonal Gmin to 1000
+Increasing initial diagonal Gmin to 10000
+Gmin = 10000
+Gmin = 1073.74
+Gmin = 115.292
+Gmin = 12.3794
+Gmin = 1.32923
+Gmin = 0.142725
+Gmin = 0.015325
+Gmin = 0.0016455
+Gmin = 0.000176685
+Gmin = 1.89714e-05
+Gmin = 2.03704e-06
+Gmin = 2.18725e-07
+Gmin = 2.34854e-08
+Gmin = 2.52173e-09
+Gmin = 2.70769e-10
+Gmin = 2.90735e-11
+Gmin = 3.12175e-12
+Gmin = 3.35195e-13
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Thu Jan 18 18:32:27 2024
+Total elapsed time: 0.732 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 41975
+traniter = 41118
+tranpoints = 12218
+accept = 8963
+rejected = 3255
+matrix size = 55
+fillins = 27
+solver = Normal
+Avg thread counts: 1.1/1.2/1.2/1.1
+Matrix Compiler1: 7.86 KB object code size  1.8/1.5/[0.8]
+Matrix Compiler2: 6.01 KB object code size  0.8/1.2/[0.4]
+
